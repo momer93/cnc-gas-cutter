@@ -9,5 +9,5 @@ This cnc automated gas cutter was specifically designed for steel fabrication wo
 
 Frame Design
   
-The machine was designed and implemented in Oman as part of my doctoral thesis, as a first proof of concept for the design of low cost and affordable open source machine tools for low resource contexts. The machine automates a typical gas cutting hand torch, but can also be adapted to use a machine torch or even a plasma cutter. The key features of the design are the metal frame system that utilizes simple square profile mild steel which is easily available in Oman. The linear rails are made of a combination of roller bearings running on bolts as axles, using the frame as part of the linear rail system.
+The machine was designed and implemented in Oman as part of my doctoral thesis, as a first proof of concept for the design of low cost and affordable open source machine tools for resource constrained contexts. The machine automates a typical gas cutting hand torch, but can also be adapted to use a machine torch or even a plasma cutter. The key features of the design are the metal frame system that utilizes simple square profile mild steel which is easily available in Oman. The linear rails are made of a combination of roller bearings running on bolts as axles, using the frame as part of the linear rail system.
 
