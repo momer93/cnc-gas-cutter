@@ -1,15 +1,15 @@
 # cnc-gas-cutter
 CNC gas cutter for low resource contexts
 
+<Insert picture from CAD>
+
 # Introduction
 
 This cnc automated gas cutter was specifically designed for steel fabrication workshops in Oman as a proof of concept for my doctoral thesis, where i investigate the potential of self built low cost CNC automated machine tools for resource constrained contexts. Instead of using a machine torch, it instead automates the hand held gas cutter torch that is often found in steel fabrication shops around the world. This allows end users to directly use what they have and do not have to purchase an extra new torch. 
 
-<Insert picture>
-
-# Frame Design
+# Mechanical Design
   
-The machine was designed and implemented in Oman as part of my doctoral thesis, as a first proof of concept for the design of low cost and affordable open source machine tools for resource constrained contexts. The machine automates a typical gas cutting hand torch, but can also be adapted to use a machine torch or even a plasma cutter. The key features of the design are the metal frame system that utilizes simple square profile mild steel which is easily available in Oman. The linear rails are made of a combination of roller bearings running on bolts as axles, using the frame as part of the linear rail system.
+The frame employs a metal frame system made from mild steel square hollow sections, which is easily available in Oman. The frame can be either welded together or bolted together. The linear rails are made of a combination of roller bearings running on bolts as axles, using the frame as part of the linear rail system. The drive system uses a belt and pulley system due to its ease of assembly and affordability.
 
 # Electronics
 
@@ -17,6 +17,6 @@ The electronics are comprised of conventional 3d printer electronics, again with
 
 # Process
 
-Gas cutting is one of the oldest cutting processes in industry and is ubiquitious is all kinds of metal fabrication workshops around the world. Gas cutting is different from plasma cutting in terms of the medium of cutting where a acetylene or propane flame, instead of a plasma is used to cut the metal. The process can cut only mild steel and not aluminium or stainless steel and is most suited for cutting thick mild steel ranging from 3-300mm. When cutting material thinner than 10 mm, plasma cutting is preferred. 
+Gas cutting is one of the oldest cutting processes in industry and is ubiquitious in metal fabrication workshops around the world. Gas cutting is different from plasma cutting in terms of the medium of cutting where a acetylene or propane flame, instead of a plasma is used to cut the metal. The process can cut only mild steel and not aluminium or stainless steel and is most suited for cutting thick mild steel ranging from 3-300mm. When cutting material thinner than 10 mm, plasma cutting is preferred. 
 
 ![Gas cutting](C:\Users\Mohammed Omer\cnc_gas_cutter_repo\cnc-gas-cutter\Images\Flame_distribution_while_preheat.png)
