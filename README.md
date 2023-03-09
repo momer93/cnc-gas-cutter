@@ -18,3 +18,5 @@ The electronics are comprised of conventional 3d printer electronics, again with
 # Process
 
 Gas cutting is one of the oldest cutting processes in industry and is ubiquitious is all kinds of metal fabrication workshops around the world. Gas cutting is different from plasma cutting in terms of the medium of cutting where a acetylene or propane flame, instead of a plasma is used to cut the metal. The process can cut only mild steel and not aluminium or stainless steel and is most suited for cutting thick mild steel ranging from 3-300mm. When cutting material thinner than 10 mm, plasma cutting is preferred. 
+
+![Gas cutting](C:\Users\Mohammed Omer\cnc_gas_cutter_repo\cnc-gas-cutter\Images\Flame_distribution_while_preheat.png)
